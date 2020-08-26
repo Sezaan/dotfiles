@@ -113,3 +113,6 @@ path+=(
 )
 
 alias ls="colorls --sd -A"
+
+# Kitty completion
+kitty + complete setup zsh | source /dev/stdin

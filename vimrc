@@ -131,3 +131,6 @@ let g:LanguageClient_rootMarkers = {
 map <C-n> :NERDTreeToggle<CR>
 
 let g:NERDTreeGitStatusLogLevel = 3
+
+" kitty workaround
+let &t_ut=''
