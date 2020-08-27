@@ -10,3 +10,5 @@ git clone https://github.com/Sezaan/dotfiles.git
 cd dotfiles
 source install.sh
 ```
+### Screenshots
+![](https://i.imgur.com/9LwyUS2.png)
