@@ -40,6 +40,10 @@ Plug 'elixir-editors/vim-elixir'
 "Auto Completion for elixir
 Plug 'slashmili/alchemist.vim'
 
+"Airline plugins
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
 " Plugin 'neoclide/coc.nvim'
 " Plug 'neoclide/coc.nvim'
 
