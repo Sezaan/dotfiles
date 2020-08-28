@@ -142,3 +142,6 @@ let g:NERDTreeGitStatusLogLevel = 3
 
 " kitty workaround
 let &t_ut=''
+
+" setting up airline color
+set t_Co=256
