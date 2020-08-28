@@ -44,6 +44,9 @@ Plug 'slashmili/alchemist.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 
+"Markdown Live Preview plugin
+Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
+
 " Plugin 'neoclide/coc.nvim'
 " Plug 'neoclide/coc.nvim'
 
@@ -56,6 +59,7 @@ call plug#end()
 " execute pathogen#infect()
 
 filetype plugin indent on
+filetype plugin on
 
 " syntax on
 syntax on
